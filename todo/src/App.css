@@ -1,0 +1,15 @@
+.main-div{
+  position: relative;
+  width:Auto;
+  background-color: green;
+  color:white
+  
+}
+.container{
+  position: Absolute;
+  width:400px;
+  height:auto;
+  margin-left: 400px;
+  text-align: center;
+  background-color: teal;
+}
